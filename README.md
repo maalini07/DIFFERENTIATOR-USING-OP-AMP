@@ -50,10 +50,13 @@ DIFFERENTIATOR
 <img width="757" height="447" alt="image" src="https://github.com/user-attachments/assets/3bb38583-c020-43ad-8b15-c03f1f545842" />
 
 TABULATION:
+![4fadf130-2062-4231-ad9b-09867773c76e](https://github.com/user-attachments/assets/4453b2ff-6ac4-40fe-9808-c797dc5a6610)
 
 
 GRAPH:
+![5fe7ad2d-43d1-44a1-ae11-9bdcb103a0fc](https://github.com/user-attachments/assets/7265e20e-8b4c-48f2-a539-6e2da83ed381)
 
+![57a7db30-fabd-4c71-b4e4-725878794d15](https://github.com/user-attachments/assets/09877d32-ed1d-4a0e-b294-459cd00c2818)
 
 RESULT:
-
+Thus, an differentiator using Op-Amp are designed and their performance was successfully tested using IC741
